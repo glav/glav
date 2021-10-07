@@ -1,5 +1,6 @@
-### Hi there 👋
-
+- 🔭 I’m currently working on [Cognitive Services FluentAPI](https://github.com/glav/CognitiveServicesFluentApi), [Chuck Norris Action](https://github.com/glav/chuck-norris-quote), [Gardening API](https://github.com/glav/glav.gardening)
+- 🌱 I’m currently learning how to be a better human
+- 📫 How to reach me: @glav (Twitter), [LinkedIn](https://www.linkedin.com/in/paul-glavich-2a613b1/)
 <!--
 **glav/glav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

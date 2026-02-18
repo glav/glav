@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on [Cognitive Services FluentAPI](https://github.com/glav/CognitiveServicesFluentApi), [Chuck Norris Action](https://github.com/glav/chuck-norris-quote), [Gardening API](https://github.com/glav/glav.gardening)
+- 🔭 I’m currently working on [Teambot(https://github.com/glav/teambot)
 - 🌱 I’m currently learning how to be a better human
 - 📫 How to reach me: @glav (Twitter), [LinkedIn](https://www.linkedin.com/in/paul-glavich-2a613b1/)
 <!--
